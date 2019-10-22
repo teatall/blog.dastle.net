@@ -1,0 +1,27 @@
+<footer class="mt-5 bg-light">
+
+  <div class="container-responsive">
+
+
+    <div class="row pt-3">
+
+        <ul class="list-inline d-flex small text-muted float-md-right">
+          {% assign pages_list = site.pages %}
+          {% assign group = 'footer-navigation' %}
+          {% include pages_list.html %}
+        </ul>
+        
+        <div class="text-muted small">
+          <p><i class="fab fa-creative-commons fa-lg"></i><i class="fab fa-creative-commons-by fa-lg"></i><i class="fab fa-creative-commons-nc fa-lg"></i><i class="fab fa-creative-commons-sa fa-lg"></i></p>
+          <p class="small">Unless otherwisely noted, content on this website is licensed under:<br />
+            <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" class="text-muted">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</a>
+          </p>
+        </div>
+        
+        <a id="to-top" href="#top" class="sjump btn btn-secondary d-print-none"><i class="fas fa-chevron-up"></i><span class="sr-only">Back to top</span></a>
+
+    </div>
+
+  </div>
+
+</footer>
