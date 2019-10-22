@@ -1,0 +1,6 @@
+name: Dastle
+markdown: kramdown
+permalink: /:year/:month/:day/:title
+timezone: Asia/Shanghai
+livereload: true
+baseurl: https://blog.dastle.net
