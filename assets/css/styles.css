@@ -229,6 +229,14 @@ a:hover {
 
 /* Site footer */
 
+#to-top {
+	bottom: 1rem;
+	right: 1rem;
+	position: fixed;
+	display: none;
+	z-index: 900;
+}
+
 @media (min-width:768px){ /* styles for screens smaller than 768px */
 	.image-card-wrap {
 		max-width: 18rem;
