@@ -58,9 +58,12 @@
 		      window.location.href = suggestion.url;
 		    });
 		  }
+		  initSearchBox();
 
 		// more code here
 
 	});
 
 }(jQuery));
+
+
