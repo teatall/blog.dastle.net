@@ -4,12 +4,13 @@
     {% for post in site.posts %}
     {% assign title = post.title | split:' ' %}
     {% assign date = post.date | date_to_long_string | split:' ' %}
+    {% assign abstract = post.abstract | split:' ' %}
     {
         "value": "{{ post.title }}",
         "tokens": [
             {% for word in title %}"{{ word }}",{% endfor %}
             {% for word in date %}"{{ word }}",{% endfor %}
-            {% assign abstract = post.abstract %}{% for word in abstract %}"{{ word }}",{% endfor %}
+            {% for word in abstract %}"{{ word }}",{% endfor %}
             false
             ],
         "date": "{{ post.date | date_to_long_string }}",
