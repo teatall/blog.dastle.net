@@ -61,5 +61,5 @@ Simon Padbury based on Bootstrap 4. Some modifications were done
 according to personal preference of mine.
 
 David Z on 28 Feb., 2018\
- Updated on 8 Mar., 2018\
- Written into English on 16 Mar., 2018
+Updated on 8 Mar., 2018\
+Written into English on 16 Mar., 2018
