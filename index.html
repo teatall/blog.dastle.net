@@ -8,7 +8,7 @@ layout: default
   <div class="card-body">
     <h5 class="card-title"><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h5>
     <p class="card-text">{{ post.abstract }}<a href="{{ post.url }}" title="{{ post.title }}" class="mx-1"><i class="far fa-arrow-alt-circle-right"></i></a></p>
-    <p class="card-text text-secondary meta small">{{ post.date }}</p>
+    <p class="card-text text-secondary meta small">{{ post.date | date_to_string }}</p>
   </div>
 </div>
 {% endfor %}
