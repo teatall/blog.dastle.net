@@ -52,6 +52,13 @@
             background-color:#000;
         }
 
+.hyphenate {
+	word-wrap: break-word;
+	overflow-wrap: break-word;
+	-webkit-hyphens: auto;
+	   -moz-hyphens: auto;
+		hyphens: auto;
+}
 
 /* define a class for serif fonts */
 .font-serif {
