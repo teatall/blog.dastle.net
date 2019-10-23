@@ -35,3 +35,12 @@ $(document).ready(function() {
 	// more code here
 
 });
+
+
+
+SimpleJekyllSearch({
+	searchInput: document.getElementById('search-input'),
+	resultsContainer: document.getElementById('results-container'),
+	json: '/search.json'
+	searchResultTemplate: '<a href="{{ site.url }}{url}" class="dropdown-item">{title}</a>'
+})
