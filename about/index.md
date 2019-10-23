@@ -2,6 +2,7 @@
 layout: page
 title: About
 group: navigation
+author: Admin
 ---
 
 Dastle – the word
