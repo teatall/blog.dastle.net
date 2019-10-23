@@ -47,7 +47,7 @@
         searchInput: document.getElementById('search-box'),
         resultsContainer: document.getElementById('search-box-dropdown'),
         json: '/search.json',
-        searchResultTemplate: '<a href="{{ site.url }}{url}" class="dropdown-item">{title}</a>'
+        searchResultTemplate: '<div class="dropdown-item"><h6><a href="{url}" class="small">{title}</a></h6><p clas="mb-0 small">{abstract}</p></div>'
       })
     </script>
     
