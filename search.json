@@ -7,9 +7,9 @@
     {
         "value": "{{ post.title }}",
         "tokens": [
-            {% for tag in post.tags %}"{{ tag }}",{% endfor %}
             {% for word in title %}"{{ word }}",{% endfor %}
             {% for word in date %}"{{ word }}",{% endfor %}
+            {% for word in abstract %}"{{ word }}",{% endfor %}
             false
             ],
         "date": "{{ post.date | date_to_long_string }}",
