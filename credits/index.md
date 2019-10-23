@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Acknowledgement
+title: Credits
 group: footer-navigation
 ---
 
