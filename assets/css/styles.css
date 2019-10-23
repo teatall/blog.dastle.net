@@ -229,6 +229,19 @@ a:hover {
 
 /* Site footer */
 
+.footer-nav .nav-item {
+	margin-right: 1rem;
+}
+
+
+.footer-nav .nav-item:last-child {
+	margin-right: 0;
+}
+
+.footer-nav .nav-item .nav-link {
+	padding: .25rem 0;
+}
+
 #to-top {
 	bottom: 1rem;
 	right: 1rem;
