@@ -9,7 +9,7 @@
         "tokens": [
             {% for word in title %}"{{ word }}",{% endfor %}
             {% for word in date %}"{{ word }}",{% endfor %}
-            {% assign abstract = post.abstract | split:&nbsp; %}{% for word in abstract %}"{{ word }}",{% endfor %}
+            {% assign abstract = post.abstract %}{% for word in abstract %}"{{ word }}",{% endfor %}
             false
             ],
         "date": "{{ post.date | date_to_long_string }}",
