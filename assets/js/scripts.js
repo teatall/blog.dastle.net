@@ -39,8 +39,8 @@ $(document).ready(function() {
 
 
 SimpleJekyllSearch({
-	searchInput: document.getElementById('search-input'),
-	resultsContainer: document.getElementById('results-container'),
+	searchInput: document.getElementById('search-box'),
+	resultsContainer: document.getElementById('search-box-dropdown'),
 	json: '/search.json'
 	searchResultTemplate: '<a href="{{ site.url }}{url}" class="dropdown-item">{title}</a>'
 })
