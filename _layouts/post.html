@@ -4,6 +4,7 @@ layout: default
 <h1 class="hyphenate">{{ page.title }}</h1>
 <hr>
 <ul class="list-inline text-muted small">
+  <li class="list-inline-item author"><i class="far fa-user-circle fa-fw mr-1"></i>{% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}</li>
   <li class="list-inline-item time"><i class="far fa-calendar-alt fa-fw mr-1"></i>{{ page.date | date_to_string }}</li>
 </ul>
 <hr>
