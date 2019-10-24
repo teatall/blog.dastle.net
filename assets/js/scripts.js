@@ -58,7 +58,7 @@ $(function () {
 	templates: {
 		notFound: '<div class="dropdown-item small disabled empty-message">Nothing found</div>',
 		suggestion: function(data) {
-		    return '<div class="dropdown-item small text-truncate"><h6>' + data.title + '</h6><div><span class="badge badge-primary">' + data.time + '</span>' + data.abstract + '</div></div>';
+		    return '<div class="dropdown-item small"><h6 class="text-truncate">' + data.title + '</h6><p class="mb-0 text-truncate"><span class="badge badge-primary mr-1">' + data.date + '</span>' + data.abstract + '</p></div>';
 		},
 	}
     });
