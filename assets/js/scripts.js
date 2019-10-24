@@ -18,7 +18,7 @@ $(document).ready(function() {
 	// make tables responsive
 	$("main table").each(function() {
 		$(this).addClass("table");
-		$(this).wrap("<div class="table-responsive"></div>");
+		$(this).wrap("<div class='table-responsive'></div>");
 	});
 	
 	// enable popup gallery
