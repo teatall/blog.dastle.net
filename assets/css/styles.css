@@ -168,6 +168,10 @@ img,
 	width: 100%;
 }
 
+.navbar .tt-suggestion {
+	cursor: pointer;
+}
+
 /* Author bio */
 
 /*.author-bio .avatar {
