@@ -63,6 +63,12 @@ $(function () {
         name: 'pages',
         display: 'title',
         source: pages,
+	templates: {
+		notFound: '<div class="dropdown-item small disabled empty-message">Nothing found</div>',
+		suggestion: function(data) {
+		    return '<h6><strong>' + data.title + '</h6><div class="text-truncate"><span class="badge badge-primary">' + data.year + data.abstract + '</div>';
+		},
+	}
     });
 
     $('#search-box').bind('typeahead:select', function (ev, suggestion) {
