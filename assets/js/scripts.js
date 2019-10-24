@@ -51,7 +51,7 @@ $(function () {
     });
 
     $('#search-box').typeahead({
-	minLength: 0,
+	minLength: 3,
 	highlight: true,
 	classNames: {
 		menu: 'w-100',
