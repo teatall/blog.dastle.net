@@ -57,7 +57,7 @@ $(function () {
 		menu: 'w-100',
 		dataset: 'dropdown-menu show shadow w-100',
 		hint: 'Typeahead-hint',
-		suggestion: 'dropdown-tem',
+		suggestion: 'dropdown-item',
 	},
     }, {
         name: 'pages',
