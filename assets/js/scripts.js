@@ -21,14 +21,6 @@ $(document).ready(function() {
 		gallery:{
 			enabled:true
 		},
-		callbacks: {
-			open: function() {
-				$('html, body').addClass('modal-open');
-			},
-			close: function() {
-				$('html, body').removeClass('modal-open');
-			}
-		},
 	});
 	
 
@@ -66,7 +58,7 @@ $(function () {
 	templates: {
 		notFound: '<div class="dropdown-item small disabled empty-message">Nothing found</div>',
 		suggestion: function(data) {
-		    return '<h6><strong>' + data.title + '</h6><div class="text-truncate"><span class="badge badge-primary">' + data.year + data.abstract + '</div>';
+		    return '<div class="dropdown-item small text-truncate"><h6>' + data.title + '</h6><div class="text-truncate"><span class="badge badge-primary">' + data.year + data.abstract + '</div>';
 		},
 	}
     });
