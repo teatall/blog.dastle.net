@@ -51,8 +51,14 @@ $(function () {
     });
 
     $('#search-box').typeahead({
-      minLength: 0,
-      highlight: true
+	minLength: 0,
+	highlight: true,
+	classNames: {
+		menu: 'w-100',
+		dataset: 'dropdown-menu show shadow w-100',
+		hint: 'Typeahead-hint',
+		suggestion: 'dropdown-tem',
+	},
     }, {
         name: 'pages',
         display: 'title',
