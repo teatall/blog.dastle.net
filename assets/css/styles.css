@@ -116,7 +116,6 @@
 	transform: rotate(0);
 }
 
-
 /* Max img widths */
 
 img,
@@ -163,6 +162,10 @@ img,
 .navbar > .container,
 .navbar > .container-responsive {
 	max-width: 1110px;
+}
+
+.navbar .twitter-typeahead {
+	width: 100%;
 }
 
 /* Author bio */
