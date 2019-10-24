@@ -43,7 +43,7 @@ $(function () {
 
   function initSearchBox() {
     var pages = new Bloodhound({
-      datumTokenizer: Bloodhound.tokenizers.obj.whitespace('title'),
+      datumTokenizer: Bloodhound.tokenizers.obj.whitespace('title', 'abstract'),
       // datumTokenizer: Bloodhound.tokenizers.whitespace,
       queryTokenizer: Bloodhound.tokenizers.whitespace,
 
