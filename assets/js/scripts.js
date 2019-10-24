@@ -62,7 +62,7 @@ $(function () {
     }, {
         name: 'pages',
         display: 'title',
-        source: pages
+        source: pages,
 	templates: {
 		empty: [
 		'<div class="dropdown-item small disabled empty-message">',
