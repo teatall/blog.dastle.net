@@ -47,6 +47,7 @@ $(function () {
 	highlight: true,
 	classNames: {
 		menu: 'w-100',
+		hint: 'text-muted',
 		dataset: 'dropdown-menu show shadow mt-1 w-100',
 		//suggestion: 'dropdown-item small text-truncate',
 		highlight: 'border-bottom border-success',
