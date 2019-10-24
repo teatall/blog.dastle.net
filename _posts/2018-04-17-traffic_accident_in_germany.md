@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: "Traffic Accident in Germany"
 date: 2018-04-17
 abstract: "Experience of a traffic accident on a highway in Germany and how people reacted"
