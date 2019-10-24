@@ -63,10 +63,6 @@ $(function () {
         name: 'pages',
         display: 'title',
         source: pages,
-	templates: {
-		notFound: '<div class="dropdown-item small disabled empty-message">Nothing found</div>',
-		suggestion: Handlebars.compile('<h6>{{title}}</h6><div class="text-truncate"><span class="badge badge-primary">{{date}}</span>{{abstract}}</div>')
-	}
     });
 
     $('#search-box').bind('typeahead:select', function (ev, suggestion) {
