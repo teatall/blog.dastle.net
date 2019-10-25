@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-group: navigation
+nav_group: nav
 author: Admin
 ---
 
