@@ -3,10 +3,11 @@ layout: post
 title: "Traffic Accident in Germany"
 date: 2018-04-17
 abstract: "Experience of a traffic accident on a highway in Germany and how people reacted"
+tags: [Germany, highway, accident, world]
 ---
 
 I was in Germany back in December 2013 for a contract of equipment. We
-were heading back to Munich <span id="more-711"></span>by car because
+were heading back to Munich by car because
 our flight back to Shanghai was departing on the second day. It was just
 before Christmas so the celebratory atmosphere was obvious, and traffic
 on the express way was really heavy. ![The Christmas tree in front of
