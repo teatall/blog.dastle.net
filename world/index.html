@@ -5,7 +5,7 @@ nav_group: nav
 desc: "People and stories I have come across while I travel around the world."
 target_tag: world
 ---
-<h1><i class="fab fa-slack-hash fa-fw mr-1"></i>{{ page.target_tag }}</h1>
+<h1 class="text-uppercase"><i class="fab fa-slack-hash fa-fw mr-1"></i>{{ page.target_tag }}</h1>
 <p class="lead">{{ page.desc }}</p>
 {% for post in site.tags[page.target_tag] %}
 <div class="card mb-3">
