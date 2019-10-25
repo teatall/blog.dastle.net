@@ -39,7 +39,7 @@ all taken so we had to find some elsewhere. The boarding announcement
 was quickly made and we stood up for leaving.
 
 There was a long queue of economy class. The colleague from the embassy
-reminded me that he had gold membership of Star Alliance, which allowed
+reminded me that he had premium status of the airline alliance, which allowed
 him to invite an additional guest to board through the priority lane. I
 suggested he go with the Parliamentary Secretary first as a courtesy but
 was told by the Secretary confidently:
