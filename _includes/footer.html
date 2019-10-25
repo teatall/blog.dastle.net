@@ -7,7 +7,7 @@
       <div class="col-sm">
 
         <ul class="list-inline small text-muted float-md-right footer-nav d-print-none">
-          {% assign navigation_pages = site.pages | sort: 'title' %}
+          {% assign navigation_pages = site.pages | sort: 'title' | reverse %}
           {% for p in navigation_pages %}
             {% if p.nav_group == "footer" %}
             <li class="list-inline-item">
