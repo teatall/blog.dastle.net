@@ -13,15 +13,13 @@
       
       <ul id="menu-main" class="navbar-nav">
         
-        {% assign navigation_pages = site.pages | sort: 'title' %}
-        {% for p in navigation_pages %}
-          {% if p.nav_group == "nav" %}
+        {% assign navigations = site.pages | where:"nav_group","nav" %}
+        {% for item in navigations %}
           <li class="nav-item">
-            <a href="{{ p.url }}" class="nav-link {% if p.url == page.url %}active{% endif %}">
-              {{ p.title }}
+            <a href="{{ item.url }}" class="nav-link {% if item.url == page.url %}active{% endif %}">
+              {{ item.title }}
             </a>
           </li>
-          {% endif %}
         {% endfor %}
 
       </ul>
