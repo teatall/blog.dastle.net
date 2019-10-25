@@ -3,6 +3,7 @@ layout: post
 title: "Chiang Mai of Thailand"
 date: 2018-07-06
 abstract: "Lost and found back my phone in Chiang Mai, my favorite city"
+tags: [Thailand, lost, world]
 ---
 
 To be frank, Chiang Mai has always been my favorite city.
