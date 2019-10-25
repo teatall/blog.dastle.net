@@ -12,7 +12,7 @@ Universal Studios. I took B-2033, a Boeing 777-300er of Air China (you
 guys will not understand the stupidity of an aviation enthusiast). My
 arrival at the Los Angeles International Airport was after 5 PM. After
 border clearance and luggage pickup, it was too late to go any where so
-I took a taxi to my hotel to have some sleep.
+I took a taxi to my hotel to have some sleep.![I liked the blue sky in particular.](https://user-images.githubusercontent.com/7418648/67599345-b4759980-f724-11e9-9dea-79851d83f62c.jpg)
 
 I got up early in the next morning for my trip. According to many online
 travel guides, I was traveling around by the public transport system of
