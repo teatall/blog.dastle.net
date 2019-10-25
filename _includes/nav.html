@@ -12,9 +12,18 @@
     <div class="collapse navbar-collapse" id="navbarDropdown">
       
       <ul id="menu-main" class="navbar-nav">
-        {% assign pages_list = site.pages | sort: "title" | reverse %}
-        {% assign group = 'navigation' %}
-        {% include pages_list.html %}
+        
+        {% assign navigation_pages = site.pages | sort: 'name' %}
+        {% for p in navigation_pages %}
+          {% if p.nav_group %}
+          <li class="nav-item">
+            <a href="{{ p.url }}" class="nav-link {% if p.url == page.url %}active{% endif %}">
+              {{ p.title }}
+            </a>
+          </li>
+          {% endif %}
+        {% endfor %}
+
       </ul>
       
     <div id="prefetch-search" class="ml-auto px-0 py-2 py-md-0 col-md-4 col-lg-3">
