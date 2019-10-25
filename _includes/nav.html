@@ -13,7 +13,7 @@
       
       <ul id="menu-main" class="navbar-nav">
         
-        {% assign navigation_pages = site.pages | sort: 'name' %}
+        {% assign navigation_pages = site.pages | sort: 'title' | reverse %}
         {% for p in navigation_pages %}
           {% if p.nav_group == "nav" %}
           <li class="nav-item">
