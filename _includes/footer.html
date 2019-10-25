@@ -6,8 +6,17 @@
     <div class="row pt-3">
       <div class="col-sm">
 
-        <ul class="list-inline small text-muted float-md-right footer-nav d-print-none">
-
+        <ul class="list-inline small text-muted float-md-right footer-nav d-print-none ver2112">
+          
+        {% assign navigations = site.pages | where:"nav_group","footer" | sort: 'title' %}
+        {% for item in navigations %}
+          <li class="nav-item">
+            <a href="{{ item.url }}" class="nav-link {% if item.url == page.url %}active{% endif %}">
+              {{ item.title }}
+            </a>
+          </li>
+        {% endfor %}
+          
         </ul>
         
         <div class="text-muted small">
