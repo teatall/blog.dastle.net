@@ -11,7 +11,7 @@
         {% assign navigations = site.pages | where:"nav_group","footer" | sort: 'title' %}
         {% for item in navigations %}
           <li class="list-inline-item">
-            <a href="{{ item.url }}" class="footer-nav-item {% if item.url == page.url %}active{% endif %}">
+            <a href="{{ item.url }}" class="text-muted footer-nav-item {% if item.url == page.url %}active{% endif %}">
               {{ item.title }}
             </a>
           </li>
