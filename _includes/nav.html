@@ -12,7 +12,7 @@
     <div class="collapse navbar-collapse" id="navbarDropdown">
       
       <ul id="menu-main" class="navbar-nav">
-        {% assign pages_list = site.pages %}
+        {% assign pages_list = site.pages | sort: "title" %}
         {% assign group = 'navigation' %}
         {% include pages_list.html %}
       </ul>
