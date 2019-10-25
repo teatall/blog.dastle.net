@@ -7,7 +7,6 @@ target_tag: world
 ---
 <h1><i class="fab fa-slack-hash fa-fw mr-1"></i>{{ page.target_tag }}</h1>
 <p class="lead">{{ page.desc }}</p>
-<hr>
 {% for post in site.tags[page.target_tag] %}
 <div class="card mb-3">
   <div class="card-body">
