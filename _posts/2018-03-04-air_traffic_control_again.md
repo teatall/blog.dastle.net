@@ -3,6 +3,7 @@ title: "Air Traffic Control Again"
 layout: post
 abstract: "Two experiences of flight delay in Nanjing and Frankfurt, and how airlines responded differently"
 date: 2018-03-04
+tags: [transparency, flight, world]
 ---
 
 I once commuted between Nanjing and Beijing continuously for 15 months.
