@@ -49,7 +49,7 @@ $(function() {
 
       prefetch: {
       	url: '/search.json',
-        cache: false,
+        ttl: 600000,
       }
     });
 
