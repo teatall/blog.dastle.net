@@ -7,9 +7,16 @@
       <div class="col-sm">
 
         <ul class="list-inline d-flex small text-muted float-md-right footer-nav d-print-none">
-          {% assign pages_list = site.pages %}
-          {% assign group = 'footer-navigation' %}
-          {% include pages_list.html %}
+          {% assign navigation_pages = site.pages | sort: 'name' %}
+          {% for p in navigation_pages %}
+            {% if p.nav_group == "footer" %}
+            <li class="nav-item">
+              <a href="{{ p.url }}" class="nav-link {% if p.url == page.url %}active{% endif %}">
+                {{ p.title }}
+              </a>
+            </li>
+            {% endif %}
+          {% endfor %}
         </ul>
         
         <div class="text-muted small">
