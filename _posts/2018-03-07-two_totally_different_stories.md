@@ -3,6 +3,7 @@ title: "Two Totally Different Stories"
 date: "2018-03-07"
 abstract: "Two different stories of disrupted flights and how different airlines helped to solve the problems"
 layout: post
+tags: [flight, delay, world]
 ---
 There was [a severe air traffic control on Sunday](/2018/03/04/air_traffic_control_again) and my
 flight was delayed for three whole hours without any information. It
