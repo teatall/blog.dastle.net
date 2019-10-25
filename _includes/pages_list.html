@@ -1,4 +1,4 @@
-{% for node in pages_list | sort: "title" | reverse %}
+{% for node in pages_list %}
   {% if group == null or group == node.group %}
   
     {% if page.url == node.url %}
