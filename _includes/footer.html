@@ -6,12 +6,12 @@
     <div class="row pt-3">
       <div class="col-sm">
 
-        <ul class="list-inline d-flex small text-muted float-md-right footer-nav d-print-none">
+        <ul class="list-inline small text-muted float-md-right footer-nav d-print-none">
           {% assign navigation_pages = site.pages | sort: 'title' %}
           {% for p in navigation_pages %}
             {% if p.nav_group == "footer" %}
-            <li class="nav-item">
-              <a href="{{ p.url }}" class="nav-link {% if p.url == page.url %}active{% endif %}">
+            <li class="list-inline-item">
+              <a href="{{ p.url }}" {% if p.url == page.url %}class="active"{% endif %}>
                 {{ p.title }}
               </a>
             </li>
