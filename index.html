@@ -6,7 +6,7 @@ layout: default
 {% for post in site.posts %}
 <div class="card mb-3">
   <div class="card-body">
-    <h2 class="card-title"><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
+    <h2 class="card-title"><a class="text-decoration-none" href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
     <p class="card-text">{{ post.abstract }}<a href="{{ post.url }}" title="{{ post.title }}" class="mx-1"><i class="far fa-arrow-alt-circle-right"></i></a></p>
     <p class="card-text text-secondary meta small">{{ post.date | date_to_string }}</p>
   </div>
