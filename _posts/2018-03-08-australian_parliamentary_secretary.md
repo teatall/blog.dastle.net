@@ -2,7 +2,8 @@
 layout: post
 title: "Parliamentary Secretary from Australia"
 date: 2018-03-08
-abstract: "Sharing a flight with a group of Australia officials and businessmen, and which class each of them chose to fly"
+abstract: "Sharing a flight with a group of Australian officials and businessmen, and which class each of them chose to fly"
+tags: [Australia, flight, world]
 ---
 
 Back in 2015, I was on secondment to work in the international
