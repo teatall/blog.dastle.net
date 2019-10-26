@@ -1,4 +1,4 @@
-name: Dastle
+name: Dastle Blog
 markdown: kramdown
 permalink: /:year/:month/:day/:title
 timezone: Asia/Shanghai
