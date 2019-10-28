@@ -16,7 +16,7 @@ my wifi in my room is called Dastle.
 Dastle – the blog
 -----------------
 
-The blog was stared when I first entered college in 2005. It was kept on
+The blog was started when I first entered college in 2005. It was kept on
 and off until 2011 when I graduated from college with my master’s
 degree.
 
@@ -61,6 +61,6 @@ page](https://github.com/SimonPadbury/b4st) on Github. It was made by
 Simon Padbury based on Bootstrap 4. Some modifications were done
 according to personal preference of mine.
 
-David Z on 28 Feb., 2018\
-Updated on 8 Mar., 2018\
+David Z on 28 Feb., 2018\\
+Updated on 8 Mar., 2018\\
 Written into English on 16 Mar., 2018
