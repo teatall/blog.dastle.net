@@ -3,7 +3,7 @@ title: Home
 layout: default
 ---
 
-{% for post in site.posts %}
+{% for post in site.posts limit: 7 %}
 <div class="card mb-3">
   <div class="card-body">
     <h2 class="card-title"><a class="text-decoration-none" href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
