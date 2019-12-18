@@ -132,7 +132,7 @@ img,
 
 .container-responsive {
 	width: 100%;
-	max-width: 1140px;
+	max-width: 800px;
 	padding-right: 15px;
 	padding-left: 15px;
 	margin-right: auto;
@@ -152,7 +152,7 @@ img,
 	-ms-flex-pack: justify;
 	justify-content: space-between;
 }
-
+/*
 .navbar > .container,
 .navbar > .container-fluid,
 .navbar > .container-responsive {
@@ -163,6 +163,7 @@ img,
 .navbar > .container-responsive {
 	max-width: 1110px;
 }
+*/
 
 .navbar .twitter-typeahead {
 	width: 100%;
