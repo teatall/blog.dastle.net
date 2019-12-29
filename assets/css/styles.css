@@ -289,6 +289,6 @@ a:hover {
 
 @media (min-width:768px){ /* styles for screens smaller than 768px */
 	.image-card-wrap {
-		max-width: 12rem;
+		max-width: 15rem;
 	}
 }
