@@ -7,13 +7,13 @@ target_tag: world
 ---
 <h1 class="text-uppercase"><i class="fab fa-slack-hash fa-fw mr-1"></i>{{ page.target_tag }}</h1>
 <p class="lead">{{ page.desc }}</p>
+<div class="infinite-scroll-container list-group list-group-flush">
 {% for post in site.tags[page.target_tag] %}
-<div class="card mb-3">
-  <div class="card-body">
+  <article class="post list-group-item px-0">
     <h2 class="card-title"><a class="text-decoration-none" href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
     <p class="card-text">{{ post.abstract }}<a href="{{ post.url }}" title="{{ post.title }}" class="mx-1"><i class="far fa-arrow-alt-circle-right"></i></a></p>
     <p class="card-text text-secondary meta small">{{ post.date | date_to_string }}</p>
-  </div>
-</div>
+  </article>
 {% endfor %}
+</div>
 
