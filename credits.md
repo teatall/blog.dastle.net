@@ -11,5 +11,6 @@ This website could not function properly without the following open-source proje
 - [jQuery](https://jquery.org/)
 - [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
 - [Typeahead.js](https://github.com/twitter/typeahead.js)
+- [b4st](https://github.com/SimonPadbury/b4st)
 
 I am very grateful to the communities contributing to these wonderful projects.
