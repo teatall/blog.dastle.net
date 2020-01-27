@@ -4,7 +4,7 @@ $(document).ready(function() {
 
   // make img.img-card into cards and display alt text as caption
   $("main img").each(function() {
-    $(this).wrap("<div class='card image-card-wrap d-block my-2 mx-0 mx-md-2 float-md-right'></div>");
+    $(this).wrap("<div class='card image-card-wrap shadow-sm d-block my-2 mx-0 mx-md-2 float-md-right'></div>");
     $(this).addClass("img-fluid card-img-top");
     var imageCaption = $(this).attr("alt");
     var imageSRC = $(this).attr("src");
