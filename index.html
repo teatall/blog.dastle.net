@@ -6,7 +6,7 @@ layout: default
 	{% for post in site.posts %}
 	<article class="post list-group-item px-0">
 		<h2><a class="text-decoration-none" href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-		<p>{{ post.abstract }}<a href="{{ post.url }}" title="{{ post.title }}" class="mx-1"><i class="far fa-arrow-alt-circle-right"></i></a></p>
+		<p>{{ post.abstract }}<a href="{{ post.url }}" title="{{ post.title }}" class="badge badge-primary mx-1">Read on<i class="far fa-arrow-alt-circle-right ml-1"></i></a></p>
 		<p class="text-secondary meta small">{{ post.date | date_to_string }}</p>
 	</article>
 	{% endfor %}
