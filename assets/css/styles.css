@@ -295,15 +295,15 @@ a:hover {
 .mfp-image-holder .mfp-arrow:before {
 	border-bottom: 2px solid #fff;
 	border-left: 2px solid #fff;
-	border-right: 2px solid #fff;
-	border-bottom: 2px solid #fff;
+	border-right: 0;
+	border-top: 0;
 	width: 32px;
 	height: 32px;
 	transform: rotate(45deg);
 }
 
 .mfp-image-holder .mfp-arrow-right:before {
-	transform: rotate(-45deg);
+	transform: rotate(-135deg);
 }
 
 @media (min-width:768px){ /* styles for screens smaller than 768px */
