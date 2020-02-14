@@ -297,14 +297,8 @@ a:hover {
 	border-left: 2px solid #fff;
 	border-right: 2px solid #fff;
 	border-bottom: 2px solid #fff;
-	transform: rotate(45deg);
-}
-
-.mfp-image-holder .mfp-arrow:before {
-	border-bottom: 2px solid #fff;
-	border-left: 2px solid #fff;
-	border-right: 2px solid #fff;
-	border-bottom: 2px solid #fff;
+	width: 32px;
+	height: 32px;
 	transform: rotate(45deg);
 }
 
