@@ -287,6 +287,31 @@ a:hover {
 	z-index: 900;
 }
 
+/* over-ride image popup button styles */
+.mfp-image-holder .mfp-arrow:after {
+	display: none;
+}
+
+.mfp-image-holder .mfp-arrow:before {
+	border-bottom: 2px solid #fff;
+	border-left: 2px solid #fff;
+	border-right: 2px solid #fff;
+	border-bottom: 2px solid #fff;
+	transform: rotate(45deg);
+}
+
+.mfp-image-holder .mfp-arrow:before {
+	border-bottom: 2px solid #fff;
+	border-left: 2px solid #fff;
+	border-right: 2px solid #fff;
+	border-bottom: 2px solid #fff;
+	transform: rotate(45deg);
+}
+
+.mfp-image-holder .mfp-arrow-right:before {
+	transform: rotate(-45deg);
+}
+
 @media (min-width:768px){ /* styles for screens smaller than 768px */
 	.image-card-wrap {
 		max-width: 15rem;
