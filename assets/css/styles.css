@@ -264,6 +264,10 @@ a:hover {
 	padding-left: 1rem;
 }
 
+#content .image-card-wrap .card-body {
+	line-height: 1;
+}
+
 /* Site footer */
 
 .footer-nav .nav-item {
