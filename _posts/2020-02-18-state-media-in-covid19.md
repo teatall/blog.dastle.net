@@ -158,6 +158,6 @@ News of today is history of tomorrow.
 
 <sup>7</sup> It's a literal translation as I did not find the original quote from Chaplin.
 
-<sup>8</sup> _Shuang Huang Lian_ is a Chinese medicine. _People's Daily_ reported in its Weibo posts that its effective in controling the virus without varifying the news, which turned out to be ineffective.
+<sup>8</sup> _Shuang Huang Lian_ is a Chinese medicine. _People's Daily_ reported in its Weibo posts that it's effective in controling the virus without varifying the news, which turned out to be ineffective.
 
 <sup>9</sup> _Baibuting_ is the name of a local and historical community in Wuhan. After the outbreak of the epidemic, the government still allowed (allegedly asked) the community to continue its tradition of holding banquets of tens of thousands of people for the Spring Festival, which spread the virus further.
