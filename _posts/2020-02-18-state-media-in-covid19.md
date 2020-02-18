@@ -27,7 +27,7 @@ On top of it rested a tightly clenched fist (a sign of strength in China).
 
 The source of the information is Chinanews.com. It's a mayor media organisation based in Beijing. The photo is credited to a photographer called Zhang Chang. He risked his life to capture this precious moment of China. His bravery should be admired.
 
-![A screenshot of _Weifang Daily_, a local news agency of Weifang in Shandong Province, saying the photo was captured in an appartment block of Shouguang of Weifang](https://user-images.githubusercontent.com/7418648/74727415-1762e180-527c-11ea-866c-d607c689851b.jpg)As I was almost moved into tears, another post by _Wei Fang Jin Ri_ (_Weifang Daily_, a local news agency of Weifang in Shandong Province) almost shocked my jaw off.
+![A screenshot of Weifang Daily, a local news agency of Weifang in Shandong Province, saying the photo was captured in an appartment block of Shouguang of Weifang](https://user-images.githubusercontent.com/7418648/74727415-1762e180-527c-11ea-866c-d607c689851b.jpg)As I was almost moved into tears, another post by _Wei Fang Jin Ri_ (_Weifang Daily_, a local news agency of Weifang in Shandong Province) almost shocked my jaw off.
 
 Hey, Zhang Chang the photographer, somebody is pirating your work!
 
