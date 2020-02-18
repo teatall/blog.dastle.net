@@ -47,7 +47,7 @@ During a disarster, it's very normal for the media to cover some positive news i
 
 Coincidentally there are more cases like this.
 
-![A screenshot of the search results from Baidu.com for "run away after leaving behind 10000 _yuan_", with many entries coming up covering same news happening at different places](https://user-images.githubusercontent.com/7418648/74727410-15008780-527c-11ea-831b-df3a08e98689.jpg)Recently if you search on Baidu.com (a Chinese search engine) "run away after leaving behind 10000 _yuan_"<sup>3</sup>, you would be amazed by how rich the Chinese people have become and how fast could they could run.
+![A screenshot of the search results from Baidu.com for "run away after leaving behind 10000 yuan", with many entries coming up covering same news happening at different places](https://user-images.githubusercontent.com/7418648/74727410-15008780-527c-11ea-831b-df3a08e98689.jpg)Recently if you search on Baidu.com (a Chinese search engine) "run away after leaving behind 10000 _yuan_"<sup>3</sup>, you would be amazed by how rich the Chinese people have become and how fast could they could run.
 
 Nobody knows why it had to be 10000 _yuan_. Anyhow it seemed that people all over the country has joined the game of leaving money behind. The protagonist could be an old people over 80 or a child around 10, but they were all fast-paced and had perfect skills of leaving no evidence of their identity. They could escape from the police's hunt, leaving behind also a mysterious back.
 
@@ -142,7 +142,7 @@ News of today is history of tomorrow.
 
 ![A news coverage of a medical personel who volunteered to help. The first highlighted part says the twin boys are less than 20 days old, while the second highlighted part says the boys asked their father "where is mom" after his wife left.](https://user-images.githubusercontent.com/7418648/74727385-0e721000-527c-11ea-8b6e-e722da2814a5.jpg)Who would know that, in a magic year of 2020, instead of truth and virtue, what we are leaving the future generations are meaningless sacrifice, hypocritic heros, and what's more, a fallacy of babies speaking human language when they are only 20 days old.
 
-
+## Notes
 
 <sup>1</sup> This refers to the famous quote of Theodor Adorno: "To write a poem after Auschwitz is barbaric". After the outbreak of COVID-19 in Wuhan, poems of encouragement and compassion were written on the boxes of donated medical supplies from Japan. Yet the official newspaper sponsored by Wuhan municipal government, _Chang Jiang Ri Bao_ (_Yangtze Daily_), pubished a commentary against such action, claiming that it was a barbaric action and Wuhan people would prefer simpler slogans such as "_Add oil, Wuhan_" (literal translation from Chinese, meaning "_Go Wuhan_").
 
