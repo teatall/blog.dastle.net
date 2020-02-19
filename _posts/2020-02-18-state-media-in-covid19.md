@@ -1,7 +1,7 @@
 ---
 title: "To impress us, how hard can the state media try?"
 layout: post
-tags: [media, China, virus, Wuhan]
+tags: [media, China, virus, Wuhan, CCAIE]
 date: 2020-02-18
 abstract: "An article went viral in China about Chinese media"
 ---
@@ -25,7 +25,7 @@ Under an apartment building in Wuhan, someone wrote two big Chinese characters o
 On top of it rested a tightly clenched fist (a sign of strength in China).
 
 
-The source of the information is Chinanews.com. It's a mayor media organisation based in Beijing. The photo is credited to a photographer called Zhang Chang. He risked his life to capture this precious moment of China. His bravery should be admired.
+The source of the information is Chinanews.com. It's a major media organisation based in Beijing. The photo is credited to a photographer called Zhang Chang. He risked his life to capture this precious moment of China. His bravery should be admired.
 
 ![A screenshot of Weifang Daily, a local news agency of Weifang in Shandong Province, saying the photo was captured in an appartment block of Shouguang of Weifang](https://user-images.githubusercontent.com/7418648/74727415-1762e180-527c-11ea-866c-d607c689851b.jpg)As I was almost moved into tears, another post by _Wei Fang Jin Ri_ (_Weifang Daily_, a local news agency of Weifang in Shandong Province) almost shocked my jaw off.
 
@@ -47,7 +47,7 @@ During a disarster, it's very normal for the media to cover some positive news i
 
 Coincidentally there are more cases like this.
 
-![A screenshot of the search results from Baidu.com for "run away after leaving behind 10000 yuan", with many entries coming up covering same news happening at different places](https://user-images.githubusercontent.com/7418648/74727410-15008780-527c-11ea-831b-df3a08e98689.jpg)Recently if you search on Baidu.com (a Chinese search engine) "run away after leaving behind 10000 _yuan_"<sup>3</sup>, you would be amazed by how rich the Chinese people have become and how fast could they could run.
+![A screenshot of the search results from Baidu.com for "run away after leaving behind 10000 yuan", with many entries coming up covering same news happening at different places](https://user-images.githubusercontent.com/7418648/74727410-15008780-527c-11ea-831b-df3a08e98689.jpg)Recently if you search on Baidu.com (a Chinese search engine) "run away after leaving behind 10000 _yuan_"<sup>3</sup>, you would be amazed by how rich the Chinese people have become and how fast they could run.
 
 Nobody knows why it had to be 10000 _yuan_. Anyhow it seemed that people all over the country has joined the game of leaving money behind. The protagonist could be an old people over 80 or a child around 10, but they were all fast-paced and had perfect skills of leaving no evidence of their identity. They could escape from the police's hunt, leaving behind also a mysterious back.
 
