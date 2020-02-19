@@ -226,7 +226,7 @@ a:hover {
 #content blockquote {
 	border: none;
 	border-left: 5px solid #0056b3;
-	padding-left: 1rem;
+	padding: 0.5rem 0 0.5rem 1rem;
 	background-color: rgba(239, 247, 255, .6);
 }
 
