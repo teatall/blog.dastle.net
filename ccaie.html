@@ -1,0 +1,19 @@
+---
+title: CCAIE
+layout: default
+nav_group: nav
+nav_order: 400
+desc: "Censored Chinese articles in English"
+target_tag: CCAIE
+---
+<h1 class="text-uppercase"><i class="fab fa-slack-hash fa-fw mr-1"></i>{{ page.target_tag }}</h1>
+<p class="lead">{{ page.desc }}</p>
+<div class="infinite-scroll-container list-group list-group-flush">
+{% for post in site.tags[page.target_tag] %}
+  <article class="post list-group-item px-0">
+    <h2 class="card-title"><a class="text-decoration-none" href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
+    <p>{{ post.abstract }} <a href="{{ post.url }}" title="{{ post.title }}" class="badge badge-primary">Read on<i class="far fa-arrow-alt-circle-right ml-1"></i></a></p>
+    <p class="text-secondary meta small">{{ post.date | date_to_string }}</p>
+  </article>
+{% endfor %}
+</div>
