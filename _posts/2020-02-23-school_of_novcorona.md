@@ -14,77 +14,77 @@ Whenever there is a major disaster hitting, there will always be some poets who 
 
 There first came the poem, _Thank you, Mr Corona_. It is such a piece of compliments, and hence starts the record of boot-licking in 2020.
 
-> I need to thank you, Mr Corona, who make me see a kind of sweet dew -- the strength of unity
-> I need to thank you, Mr Corona, who make me see a kind of sweet dew -- courageous marching forward
-> I need to thank you, Mr. Corona, who make me see a kind of sweet dew -- the persistence of white-clothed angels<sup>1</sup>
-> I need to thank you, Mr. Corona, who make me see a kind of sweet dew -- the eternal kindness of people
+> I need to thank you, Mr Corona, who make me see a kind of sweet dew -- the strength of unity\\
+> I need to thank you, Mr Corona, who make me see a kind of sweet dew -- courageous marching forward\\
+> I need to thank you, Mr. Corona, who make me see a kind of sweet dew -- the persistence of white-clothed angels<sup>1</sup>\\
+> I need to thank you, Mr. Corona, who make me see a kind of sweet dew -- the eternal kindness of people\\
 > I need to thank you, Mr. Corona, who make me see a kind of sweet dew -- how difficulties are overcome
 
 Soon some officials from the local system for 'political and legal affairs' wrote an even more impressive one, which praised so hard the local officials of higher rank: "the blood in the eyes of the county magistrate / is to weave into the blossoms that greet the new spring / ... / This scene could make a grindstone tearing and wind in the woods overwhelmed".
 
-> When the epidemic hits
-> The Party members therefore hold high in their hearts the party banner
-> They connects [the sound of] modern louder-speakers with old gongs
-> **Into a scenery of the affected area**
-> **'Blending' therefore becomes a 'name-card' of the area**
-> and makes something as wonderful as the six movement of the Beethoven Symphonies
-> 
-> Please allow your eyes to follow our camera [to the officials]
-> **They lead the white-clothed angels and dark-blue brigade**<sup>2</sup>
-> **They lead the team to save the patients and guard safety**
-> They march in front of the time passing by
-> They march in the inculcation from the Party to the public servents
-> 
-> **Look at the blood in the eyes of the Party secretary and magistrate of the county**
-> **It is to weave into the blossoms that greets the new spring**
-> Look at the dark pouches under the eyes of the party members and officials of the community
-> They make the cloud above the *Dabie* mountain enchanted
-> And make a grindstone tearing and wind in the woods overwhelmed
+> When the epidemic hits\\
+> The Party members therefore hold high in their hearts the party banner\\
+> They connects [the sound of] modern louder-speakers with old gongs\\
+> **Into a scenery of the affected area**\\
+> **'Blending' therefore becomes a 'name-card' of the area**\\
+> and makes something as wonderful as the six movement of the Beethoven Symphonies\\
+>  \\
+> Please allow your eyes to follow our camera [to the officials]\\
+> **They lead the white-clothed angels and dark-blue brigade**<sup>2</sup>\\
+> **They lead the team to save the patients and guard safety**\\
+> They march in front of the time passing by\\
+> They march in the inculcation from the Party to the public servents\\
+>  \\
+> **Look at the blood in the eyes of the Party secretary and magistrate of the county**\\
+> **It is to weave into the blossoms that greets the new spring**\\
+> Look at the dark pouches under the eyes of the party members and officials of the community\\
+> They make the cloud above the *Dabie* mountain enchanted\\
+> **And make a grindstone tearing and wind in the woods overwhelmed**
 
 If you have been amazed by such a piece, you must have under-estimated those spineless poets. When they uplift their buttocks to crawl in the dust, they make maggots out of job. Mr. Yu Zhonghua, member of the Association of Chinese Writers, is yet to make another piece called _Long Live the Sun of My Heart_, which will renew your three views<sup>3</sup>.
 
-> _Long live the Sun of My Heart_
+> _Long live the Sun of My Heart_\\
 > To the great Communist Party of China
 
 The poem is very long and the below is just a selected part of it.
 
-> In the spring of 2020
-> An epidemic broke out on our sacred land
-> More difficulties make a nation great in history
-> The cloud could not shed the sun forever
-> The sun is the pioneer of the nation --
-> The great Communist Party of China
-> Ah, the wise Party
-> You make the god of plague stop
-> You make the Cathay roaring
-> You make the star of misfortune disappear
-> You make the world amazed
-> 
-> Look at each single order of yours
-> 'Avoid gathering people'
-> Many enterprises, despite of huge loss
-> Stop production immediately
-> 'Guarantee emergency supplies'
-> Many people, though on their holidays
-> Work around the clock to ensure the production
-> To stop spreading the virus
-> Many quarantine themselves willingly at home
-> When trouble occurs at one spot, help comes from all quarters
-> Many oversea Chinese
-> Make generous donations
-> 
-> I would like to ask the universe
-> Who could possess such a capacity?
-> Who could care more about the people?
-> Who could enforce orders so strictly?
-> Who could make 1.4 billion people
-> connected in their hearts?
-> Ah, our great Party
-> Your decisions are
-> correct and wise
-> Your strategies are
-> scientific and practical
-> You lead the brave and loyal people
+> In the spring of 2020\\
+> An epidemic broke out on our sacred land\\
+> More difficulties make a nation great in history\\
+> The cloud could not shed the sun forever\\
+> The sun is the pioneer of the nation --\\
+> The great Communist Party of China\\
+> Ah, the wise Party\\
+> You make the god of plague stop\\
+> You make the Cathay roaring\\
+> You make the star of misfortune disappear\\
+> You make the world amazed\\
+>  \\
+> Look at each single order of yours\\
+> 'Avoid gathering people'\\
+> Many enterprises, despite of huge loss\\
+> Stop production immediately\\
+> 'Guarantee emergency supplies'\\
+> Many people, though on their holidays\\
+> Work around the clock to ensure the production\\
+> To stop spreading the virus\\
+> Many quarantine themselves willingly at home\\
+> When trouble occurs at one spot, help comes from all quarters\\
+> Many oversea Chinese\\
+> Make generous donations\\
+>  \\
+> I would like to ask the universe\\
+> Who could possess such a capacity?\\
+> Who could care more about the people?\\
+> Who could enforce orders so strictly?\\
+> Who could make 1.4 billion people\\
+> connected in their hearts?\\
+> Ah, our great Party\\
+> Your decisions are\\
+> correct and wise\\
+> Your strategies are\\
+> scientific and practical\\
+> You lead the brave and loyal people\\
 > Your orders are followed nationwide
 
 I have never cried while reading a poem, yet this one makes me cry. I have never read such a wonderful piece for boot-licking. I'm truly moved. I realised that a poet could reach a place like this.
