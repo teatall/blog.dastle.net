@@ -5,7 +5,7 @@ tags: [Nanjing, race, world]
 date: 2020-04-02
 abstract: "Stories of two Asian Americans I know."
 ---
-This week I've been thinking a lot about the racism we have yet are having little awareness among ourselves.
+This week I've been thinking a lot about the racism in our mind while we have very little awareness of it among ourselves.
 
 The first story is about Mrs. B, a Vietnamese American. Mr. B, her husband, a white man, was one of our foreign teachers when I was in college. Both of them speak very good American English. Mrs. B was teaching kindergarten kids while Mr. B taught us. But one day the kindergarten decided not to renew her contract and the headmaster was quite frank about the reason.
 
