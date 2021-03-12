@@ -5,6 +5,9 @@
   new Waline({
     el: '#waline-comments',
     path: location.pathname,
-    serverURL: 'https://dastle-blog-waline-comments.vercel.app'
+    serverURL: 'https://dastle-blog-waline-comments.vercel.app',
+    lang: 'en',
+    requiredFields: ['nick','mail'],
+    anonymous: true,
   });
 </script>
