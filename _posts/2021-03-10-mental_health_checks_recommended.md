@@ -10,14 +10,15 @@ I had to witness this weird conversation on Twitter. I think it would look absol
 
 It would be like this if we simplify it and put it into plain daily conversation:
 
-> - You guys are doing this wrong.
-> - My family is much richer than yours! It’s no longer 30 yrs ago!
+> \- You guys are doing this wrong.
+> 
+> \- My family is much richer than yours! It’s no longer 30 yrs ago!
 
 You might be really confused by now. If so, please take a look at the pictures I have made.
 
-![Twitter Page of China Daily EU Bureau Chief Chen Weihua](https://cdn.jsdelivr.net/gh/teatall/blog.dastle.net/assets/img/IMG_3476_twitter_page_of_chenweihua.JPG)
 ![Twitter conversation between Wilson, Burns and Chen](https://cdn.jsdelivr.net/gh/teatall/blog.dastle.net/assets/img/IMG_3475_twitter_conversation_between_wilson_burns_and_chen.JPG)
+![Twitter Page of China Daily EU Bureau Chief Chen Weihua](https://cdn.jsdelivr.net/gh/teatall/blog.dastle.net/assets/img/IMG_3476_twitter_page_of_chenweihua.JPG)
 
-Therefore, I fully agree with [Bai Erqiang's point](https://blog.dastle.net/2020/02/18/state-media-in-covid19) in this post about regular health checks, in particular mental health checks.
+Therefore, I fully agree with [Bai Erqiang's point](https://blog.dastle.net/2020/02/18/state-media-in-covid19) about regular health checks, in particular mental health checks.
 
 
