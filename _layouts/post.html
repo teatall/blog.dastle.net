@@ -9,7 +9,7 @@ layout: default
   {% if page.tags.size > 0 %}<li class="list-inline-item time"><i class="fab fa-slack-hash fa-fw mr-1"></i>{{ page.tags | sort | join: ", " }}</li>{% endif %}
 </ul>
 <hr>
-<main class="post">
+<main class="post clearfix">
   {{ content }}
 </main>
 <section class="comments mt-5">
