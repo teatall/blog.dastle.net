@@ -1,5 +1,5 @@
 ---
-title: "Mental health recommended"
+title: "Mental health checks recommended"
 layout: post
 tags: [Chinese, journalists, media]
 date: 2021-03-10
