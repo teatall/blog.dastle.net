@@ -1,0 +1,9 @@
+<script src='https://cdn.jsdelivr.net/npm/@waline/client/dist/Waline.min.js'></script>
+<div id="waline-comments"></div>
+<script>
+  new Waline({
+    el: '#waline-comments',
+    path: location.pathname,
+    serverURL: 'https://dastle-blog-waline-comments.vercel.app'
+  });
+</script>
