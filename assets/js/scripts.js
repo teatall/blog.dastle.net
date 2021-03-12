@@ -4,14 +4,14 @@ $(document).ready(function() {
 
   // make img.img-card into cards and display alt text as caption
   $("main img").each(function() {
-    $(this).wrap("<div class='card image-card-wrap shadow-sm d-block my-2 mx-0 mx-md-2 float-md-right'></div>");
+    $(this).wrap("<div class='card bg-light image-card-wrap shadow-sm d-block my-2 mx-0 mx-md-2 float-md-right'></div>");
     $(this).addClass("img-fluid card-img-top");
     var imageCaption = $(this).attr("alt");
     var imageSRC = $(this).attr("src");
     if (imageCaption == null) {
-      $("<div class='card-body bg-light'><small class='card-text'><i>Caption not available</i><a class='mg-popup ml-1 text-secondary' title='Caption not available' href='" + imageSRC + "'><i class='fas fa-search-plus'></i></a></small></div>").insertAfter(this);
+      $("<div class='card-body'><small class='card-text'><i>Caption not available</i><a class='mg-popup ml-1 text-secondary' title='Caption not available' href='" + imageSRC + "'><i class='fas fa-search-plus'></i></a></small></div>").insertAfter(this);
     } else {
-      $("<div class='card-body bg-light'><small class='card-text' role='note'>" + imageCaption + "<a class='mg-popup ml-1 text-secondary' href='" + imageSRC + "' title='" + imageCaption + "'><i class='fas fa-search-plus'></i></a></small></div>").insertAfter(this);
+      $("<div class='card-body'><small class='card-text' role='note'>" + imageCaption + "<a class='mg-popup ml-1 text-secondary' href='" + imageSRC + "' title='" + imageCaption + "'><i class='fas fa-search-plus'></i></a></small></div>").insertAfter(this);
     }
   });
 
