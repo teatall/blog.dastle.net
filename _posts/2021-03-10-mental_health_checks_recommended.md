@@ -2,7 +2,7 @@
 title: "Mental health recommended"
 layout: post
 tags: [Chinese, journalists, media]
-date: 2018-02-28
+date: 2021-03-10
 abstract: "It is really recommended for journalists like Mr. Chen to have mental health checks"
 ---
 
