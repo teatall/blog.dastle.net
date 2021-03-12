@@ -16,5 +16,8 @@ It would be like this if we simplify it and put it into plain daily conversation
 You might be really confused by now. If so, please take a look at the pictures I have made.
 
 ![Twitter Page of China Daily EU Bureau Chief Chen Weihua](https://cdn.jsdelivr.net/gh/teatall/blog.dastle.net/assets/img/IMG_3476_twitter_page_of_chenweihua.JPG)
-
 ![Twitter conversation between Wilson, Burns and Chen](https://cdn.jsdelivr.net/gh/teatall/blog.dastle.net/assets/img/IMG_3475_twitter_conversation_between_wilson_burns_and_chen.JPG)
+
+Therefore, I fully agree with Bai Erqiang's point in this post about regular health checks, in particular mental health checks.
+
+
