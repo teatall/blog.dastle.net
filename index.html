@@ -14,12 +14,12 @@ layout: default
 
 
 {% if paginator.total_pages > 1 %}
-<nav aria-label="Page navigation example">
+<nav aria-label="Page navigation" class="mt-5">
 	<ul class="pagination">
 	  {% if paginator.previous_page %}
-	    <li class="page-item"><a href="{{ paginator.previous_page_path }}" class="page-link">&laquo; Prev</a></li>
+	    <li class="page-item"><a href="{{ paginator.previous_page_path }}" class="page-link"><i class="fas fa-angle-left fa-fw"></i></a></li>
 	  {% else %}
-	    <li class="page-item disabled"><a class="page-link" href="#" tabindex="-1" aria-disabled="true">&laquo; Prev</a></li>
+	    <li class="page-item disabled"><a class="page-link" href="#" tabindex="-1" aria-disabled="true"><i class="fas fa-angle-left fa-fw"></i></a></li>
 	  {% endif %}
 
 	  {% for page in (1..paginator.total_pages) %}
@@ -33,9 +33,9 @@ layout: default
 	  {% endfor %}
 
 	  {% if paginator.next_page %}
-	    <li class="page-item"><a href="{{ paginator.next_page_path }}"  class="page-link">Next &raquo;</a></li>
+	    <li class="page-item"><a href="{{ paginator.next_page_path }}"  class="page-link"><i class="fas fa-angle-right fa-fw"></i></a></li>
 	  {% else %}
-	    <li class="page-item disabled"><a class="page-link" href="#" tabindex="-1" aria-disabled="true">Next &raquo;</a></li>
+	    <li class="page-item disabled"><a class="page-link" href="#" tabindex="-1" aria-disabled="true"><i class="fas fa-angle-right fa-fw"></i></a></li>
 	  {% endif %}
 	</ul>
 </nav>
