@@ -6,3 +6,4 @@ livereload: true
 baseurl: https://blog.dastle.net
 author: David Z
 paginate: 7
+paginate_path: "/page:num/"
