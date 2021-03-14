@@ -12,28 +12,31 @@ layout: default
 	{% endfor %}
 </div>
 
+
 {% if paginator.total_pages > 1 %}
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}">&laquo; Prev</a>
-  {% else %}
-    <span>&laquo; Prev</span>
-  {% endif %}
+<nav aria-label="Page navigation example">
+	<ul class="pagination">
+	  <li class="page-item">{% if paginator.previous_page %}
+	    <a href="{{ paginator.previous_page_path }}">&laquo; Prev</a>
+	  {% else %}
+	    <span>&laquo; Prev</span>
+	  {% endif %}</li>
 
-  {% for page in (1..paginator.total_pages) %}
-    {% if page == paginator.page %}
-      <em>{{ page }}</em>
-    {% elsif page == 1 %}
-      <a href="{{ '/' | relative_url }}">{{ page }}</a>
-    {% else %}
-      <a href="{{ site.paginate_path | replace: ':num', page }}">{{ page }}</a>
-    {% endif %}
-  {% endfor %}
+	  {% for page in (1..paginator.total_pages) %}
+	    {% if page == paginator.page %}
+	       <li class="page-item active" aria-current="page"><a class="page-link" href="#">{{ page }}</a></li>
+	    {% elsif page == 1 %}
+	      <li class="page-item active" aria-current="page"><a href="{{ '/' | relative_url }}" class="page-link">{{ page }}</a></li>
+	    {% else %}
+	      <li class="page-item"><a href="{{ site.paginate_path | replace: ':num', page }}"  class="page-link">{{ page }}</a></li>
+	    {% endif %}
+	  {% endfor %}
 
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}">Next &raquo;</a>
-  {% else %}
-    <span>Next &raquo;</span>
-  {% endif %}
-</div>
+	  <li class="page-item">{% if paginator.next_page %}
+	    <a href="{{ paginator.next_page_path }}">Next &raquo;</a>
+	  {% else %}
+	    <span>Next &raquo;</span>
+	  {% endif %}</li>
+	</ul>
+</nav>
 {% endif %}
