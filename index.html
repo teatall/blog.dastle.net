@@ -17,9 +17,9 @@ layout: default
 <nav aria-label="Page navigation example">
 	<ul class="pagination">
 	  <li class="page-item">{% if paginator.previous_page %}
-	    <a href="{{ paginator.previous_page_path }}">&laquo; Prev</a>
+	    <a href="{{ paginator.previous_page_path }}"  class="page-link">&laquo; Prev</a>
 	  {% else %}
-	    <span>&laquo; Prev</span>
+	    <a class="page-link" href="#" tabindex="-1" aria-disabled="true">&laquo; Prev</a>
 	  {% endif %}</li>
 
 	  {% for page in (1..paginator.total_pages) %}
@@ -33,9 +33,9 @@ layout: default
 	  {% endfor %}
 
 	  <li class="page-item">{% if paginator.next_page %}
-	    <a href="{{ paginator.next_page_path }}">Next &raquo;</a>
+	    <a href="{{ paginator.next_page_path }}"  class="page-link">Next &raquo;</a>
 	  {% else %}
-	    <span>Next &raquo;</span>
+	    <a class="page-link" href="#" tabindex="-1" aria-disabled="true">Next &raquo;</a>
 	  {% endif %}</li>
 	</ul>
 </nav>
