@@ -9,7 +9,7 @@ layout: default
 		<p>{{ post.abstract }} <a href="{{ post.url }}" title="{{ post.title }}" class="badge badge-primary">Read on<i class="far fa-arrow-alt-circle-right ml-1"></i></a></p>
 		<ul class="list-inline text-muted small meta">
 			<li class="list-inline-item time"><i class="far fa-calendar-alt fa-fw mr-1"></i>{{ post.date | date_to_string }}</li>
-			{% if post.tags.size > 0 %}<li class="list-inline-item time"><i class="fab fa-slack-hash fa-fw mr-1"></i>{{ post.tags | sort | join: ", " }}</li>{% endif %}
+			{% if post.tags.size > 0 %}<li class="list-inline-item tags"><i class="fab fa-slack-hash fa-fw mr-1"></i>{{ post.tags | sort | join: ", " }}</li>{% endif %}
 		</ul>
 	</article>
 	{% endfor %}
