@@ -6,5 +6,6 @@ livereload: true
 baseurl: https://blog.dastle.net
 author: David Z
 gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 paginate: 7
 paginate_path: "/page:num/"
