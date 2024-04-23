@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-git_source(:github) { |blog.dastle.net| "https://github.com/teatall/blog.dastle.net" }
+git_source(:github) { |blog.dastle.net| "https://github.com/teatall/blog.dastle.net.git" }
 
 # gem "rails"
 gem "github-pages", "~> 215", group: :jekyll_plugins
